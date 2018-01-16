@@ -11,7 +11,7 @@ class Codechef
 	{
 	
 	    Scanner scan=new Scanner(System.in);
-	    int count=0,n;
+	    int count=0,n,i;
 	    n=scan.nextInt();
 	    for(i=1;i<=10;i++)
 	    {
