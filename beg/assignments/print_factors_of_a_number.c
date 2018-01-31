@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	// your code goes here
+	
 int n,i,s,e;
 scanf("%d",&n);
 scanf("%d %d",&s,&e);
