@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main(void)
 {
-int n,n1,count=0;
-scanf("%d",&n);
-while(n!=0)
+int nn,n1,count=0;
+scanf("%d",&nn);
+while(nn!=0)
 {
-n1=n%10;
+n1=nn%10;
 count++;
-n=n/10;
+nn=nn/10;
 }
 printf("%d",count);
 }
